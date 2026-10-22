@@ -1,7 +1,5 @@
 # Exploratory Data Analysis – Titanic Passenger Dataset
 
-Task 1 (EDA): ingest a public dataset, profile and clean it with justified decisions, visualise it, and document practical takeaways under every figure.
-
 **Dataset:** Titanic passenger manifest, 891 rows × 15 columns, from the public [`seaborn-data`](https://github.com/mwaskom/seaborn-data) repository (`titanic.csv`).
 
 ## Deliverables
